@@ -1,5 +1,5 @@
-def sum(a,b):
-    r=a+b
+def sum(a,b,c):
+    r=a+b+c
     return r
     
 def sub(a,b):
